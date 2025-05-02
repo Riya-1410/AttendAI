@@ -2,7 +2,7 @@
 
 ## Overview
 This project showcases an **AI-powered IoT-based attendance system**.
-The system utilizes **facial recognition technology** to automate and secure attendance tracking in educational institutions.
+The system utilizes **facial recognition technology** to automate and secure attendance tracking in educational institutions (still in working phase, but the website is full set to rock)
 
 The website serves as both an informational platform and an interactive demo portal to highlight the capabilities and benefits of the system.
 
